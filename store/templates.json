@@ -27,6 +27,10 @@
       "path": "https://code.iflytek.com/OBU_FEX/miniapp-template-uniapp.git",
       "default": false,
       "branch": "master"
+    },
+    "new-template": {
+      "name": "new-template",
+      "description": "This is a new template"
     }
   }
 }
