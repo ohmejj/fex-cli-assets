@@ -28,9 +28,5 @@
       "default": false,
       "branch": "master"
     },
-    "new-template": {
-      "name": "new-template",
-      "description": "This is a new template"
-    }
   }
 }
