@@ -1,5 +1,4 @@
 {
-  "tpl": {
     "pc-template-vue2": {
       "name": "pc-template-vue2",
       "type": "git",
@@ -29,4 +28,3 @@
       "branch": "master"
     }
   }
-}
